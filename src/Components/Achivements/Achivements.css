@@ -1,0 +1,72 @@
+.achvementsSection{
+    background-color: #282C34;
+    padding: 0;
+    display: flex; align-items: flex-start; justify-content: space-around;
+    color: white;
+}
+.AchvementImgBox{
+    margin: 0%; padding: 0%;
+    width: 15vw;
+    display: flex; align-items: center;
+    justify-content: flex-end;
+}
+
+.AchivementData{
+    width: 75vw;
+    margin-top: 10vh;
+
+}
+.carouselwidth{
+    width: 75vw; 
+    margin-top: 25px; 
+    white-space: 20px;
+    margin-bottom: 5vh;
+}
+.carouselwidth div{
+    border: 2px solid gray;
+    padding: 10px;
+    border-radius: 25px;
+    text-align: center;
+    margin: 3px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    height: 47vh;
+}
+.carouselwidth div img{
+    width: 100%;
+    margin-bottom: 20px;
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+}
+@media  (max-width:768px) {
+    .AchvementImgBox, .AchvementImgBox img{
+        width: 40vw;
+    }
+    .AchivementData h2{
+        font-size: 16px;
+        font-size: 15px;
+        font-weight: 600;
+        line-height: 20px;
+    }
+    .carouselwidth{
+        width: 50vw; 
+        margin-bottom: 5vh;
+    }
+    .carouselwidth div{
+        display: flex;
+        flex-direction: column;
+        justify-content: space-evenly;
+        height: 25vh;
+        border-radius: 15px;
+    }
+    .carouselwidth div img{
+        width: 100%;
+        margin-bottom: 10px;
+        border-top-left-radius:  0px;
+        border-top-right-radius: 0px;
+    }
+    .carouselwidth div p{
+        font-size: 10px;
+    }
+}

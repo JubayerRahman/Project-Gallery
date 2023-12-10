@@ -1,0 +1,139 @@
+[
+    {
+        "Key":"01",
+        "img":"/imgs/tipCalculator.png",
+        "name":"Tip calculator",
+        "description":"This tip calculator is a web application to help its user to calculate tips according to their convenience. It is a very useful project for beginners to practice and learn and new and important programming concepts. I made this application with react js. I also made a version as a challenge for front-end mentors. that was more about the front-end design. but that Dosent means it is not responsive or something. I tried a different layout with this one. So, that I can practice new UI designs and concepts.",
+        "GitRepo":"https://github.com/JubayerRahman/Tip-Calculator-With-React",
+        "LiveLink":"https://tipcalculatorwithreactjs.netlify.app/"
+    },
+    {
+        "Key":"02",
+        "img":"/imgs/ageCalculaote.png",
+        "name":"Age Calculator",
+        "description":"I made this age calculator with react to calculate an individuals age perfectly. It was a fun Little project for beginners to practice their frontend designing skills and practice some coding as well. I learned a lot by making this app. It was fun, and enjoyable!",
+        "GitRepo":"https://github.com/JubayerRahman/ageCalculatorReact",
+        "LiveLink":"https://agecalculatereact.netlify.app/"
+    },
+    {
+        "Key":"03",
+        "img":"/imgs/currencyConverter.png",
+        "name":"Currency Convertor",
+        "description":"This currency converter was very challenging for me as a beginer in react and coding. I had a different UI plan and to achieve my desired UI design  I literally tried 100 diffrent methods the achieve my desired functionality. finally I am satisfied",
+        "GitRepo":"https://github.com/JubayerRahman/currencyConverter",
+        "LiveLink":"https://currencyconverterj0bayer.netlify.app/"
+    },
+    {
+        "Key":"04",
+        "img":"/imgs/recipeBook.PNG",
+        "name":"Recepie Book",
+        "description":"I made the Recipe book when I was learning react and was in the very beginning stage. I used some of the react hooks and elements for the first time and it was exciting. I was amazed with it and got excited when the web app worked for the first time.",
+        "GitRepo":"https://github.com/JubayerRahman/RecipeBook-React",
+        "LiveLink":"https://recipebookreactjs.netlify.app/"
+    },
+    {
+        "Key":"05",
+        "img":"/imgs/weatherApp.png",
+        "name":"Weather App",
+        "description":"Weather app is like a mandatory app for beginners to practice and build one of their own version. I also tried that thing . Basically it tells you the weather status of a particular area you asked from it as an input. I used api fatching for the first time with it.",
+        "GitRepo":"https://github.com/JubayerRahman/WeatherApp-With-React",
+        "LiveLink":"https://weatherappjreactjs.netlify.app/"
+    },
+    {
+        "Key":"06",
+        "img":"/imgs/Dictionary.PNG",
+        "name":"English Dictionary",
+        "description":"This English dictionary is another great project for beginners. it will help you with a basic understanding of React and programming. I got a lot of suggestions to make this kind of application as a learner of this technology. I used React and an API to fetch the meaning of any particular word in English. I know it is not a very high-end dictionary there. But as a new learner of this technology, it is very precious to me. I only use these 2 elements and that's it. It was pretty fun to develop that kind of application with React.",
+        "GitRepo":"https://github.com/JubayerRahman/jr-dictionary",
+        "LiveLink":"https://jr-dictionary.netlify.app/"
+    },
+    {
+        "Key":"07",
+        "img":"/imgs/LoneCalclator.PNG",
+        "name":"Loan Canculator",
+        "description":"What is the purpose of a lone calculator? my main goal was to achieve an app that will help its users to add get a complete idea about their lone hou huch interest they need to pay and how much they need to pay per month and how many months they need to pay. It was a fun little project for a beginner for me. I tried to add some unique ideas about it on it. I am satisfied with my job. if you want you can give me any ideas you want.",
+        "GitRepo":"https://github.com/JubayerRahman/loneClculator",
+        "LiveLink":"https://lonecalculator-jobayer.netlify.app/"
+    },
+    {
+        "Key":"08",
+        "img":"/imgs/noteApp.PNG",
+        "name":"Note App",
+        "description":"This note app was my own thought. I made this web application and the inspiration was the other note-taking app. So, I thought why cant I make one. as a learner of web development. this kind of application is very useful for us. That was the main motivation behind this app. I am not fully satisfied with the project and in the future, I will make a better version of my web note-taking. I worked with React and local storage with this application.  And the local storage is pretty confusing, Still II cant understand this app properly. But the overall project was pretty fun.",
+        "GitRepo":"https://github.com/JubayerRahman/Note-Taking-App",
+        "LiveLink":"https://notetakingappjobayer.netlify.app/"
+    },
+    {
+        "Key":"09",
+        "img":"/imgs/passwordGenerator.png",
+        "name":"Passowrd generator",
+        "description":"",
+        "GitRepo":"https://github.com/JubayerRahman/passwordGenerator",
+        "LiveLink":"https://passwordjobayer.netlify.app/"
+    },
+    {
+        "Key":"10",
+        "img":"/imgs/QrCodemaker.png",
+        "name":"Qr code maker",
+        "description":"",
+        "GitRepo":"https://github.com/JubayerRahman/qrCode-maker",
+        "LiveLink":"https://jobayer-qrcode.netlify.app/"
+    },
+    {
+        "Key":"11",
+        "img":"/imgs/braille.PNG",
+        "name":"Braille Translater",
+        "description":"",
+        "GitRepo":"https://github.com/JubayerRahman/BraileTranslater",
+        "LiveLink":"https://braillejobayer.netlify.app/"
+    },
+    {
+        "Key":"12",
+        "img":"/imgs/mathQuiz.png",
+        "name":"Math Quiz",
+        "description":"",
+        "GitRepo":"https://github.com/JubayerRahman/MathQuiz",
+        "LiveLink":"https://mathquizjobayer.netlify.app/"
+    },
+    {
+        "Key":"13",
+        "img":"/imgs/markDownApp.PNG",
+        "name":"Mark-Down App",
+        "description":"",
+        "GitRepo":"https://github.com/JubayerRahman/markdownEditor",
+        "LiveLink":"https://markdowneditor-jobayer.netlify.app/"
+    },
+    {
+        "Key":"14",
+        "img":"/imgs/drumApp.png",
+        "name":"Drum App",
+        "description":"",
+        "GitRepo":"https://github.com/JubayerRahman/drumApp",
+        "LiveLink":"https://drumappjobayer.netlify.app/"
+    },
+    {
+        "Key":"15",
+        "img":"/imgs/countDown.png",
+        "name":"Count Down App",
+        "description":"",
+        "GitRepo":"https://github.com/JubayerRahman/CountDownApp",
+        "LiveLink":"https://countdownjobyer.netlify.app/"
+    },
+    {
+        "Key":"16",
+        "img":"/imgs/planetsWebsite.PNG",
+        "name":"planets Website",
+        "description":"",
+        "GitRepo":"https://github.com/JubayerRahman/the-Planets",
+        "LiveLink":"https://planets-by-jobayer.netlify.app/"
+    },
+    {
+        "Key":"17",
+        "img":"/imgs/numToWord.png",
+        "name":"Number to Word",
+        "description":"",
+        "GitRepo":"https://github.com/JubayerRahman/NumberToWord",
+        "LiveLink":"https://numbertowordreactjs.netlify.app/"
+    }
+    
+]

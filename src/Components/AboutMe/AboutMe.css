@@ -1,0 +1,111 @@
+.aboutMeSecton, .aboutMeEduSecton, .SkillsSction{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    gap: 35px;
+    padding-left: 100px;
+    padding-right: 100px;
+    font-family: 'Antonio', sans-serif;
+    height: 55vh;
+    margin-top: 40px;
+    margin-bottom: 10vh;
+}
+.aboutMeSecton img, .aboutMeEduSecton img , .SkillsSction img{
+    width: 35vw;
+}
+.aboutMeSecton{
+    text-align: left;
+}
+.AboutMeData p{
+    width: 70%;
+    line-height: 25px;
+    margin-top: 15px;
+}
+.AboutMeEduData{
+    display: flex; flex-direction: column;
+    align-items: flex-end;
+}
+.aboutMeEduSecton p{
+    width: 70%;
+    line-height: 25px;
+    margin-top: 15px;
+}
+.aboutMeEduSecton{
+    text-align: right;
+}
+.AboutMeData, .AboutMeEduData{
+    width: 65vw;
+}
+
+.educattionBullet{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+.skillsList{
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    margin-top: 15px;
+}
+.skillsList ul{
+    width: 50%;
+}
+.skillsList li{
+    list-style: none;
+    line-height: 30px;
+    /* margin-right: 20px; */
+    text-align: left;
+    padding-bottom: 10px;
+}
+.tailwind{
+    display: flex;
+    align-items: center;
+}
+.tailwind img{
+    width: 25px;
+}
+@media screen and (max-width:768px) {
+    .aboutMeSecton, .aboutMeEduSecton, .SkillsSction{
+        flex-direction: column;
+        align-items: center;
+        justify-content: space-evenly;
+        height: fit-content;
+    }
+    .aboutMeEduSecton{
+        flex-direction: column-reverse;
+    }
+    .aboutMeSecton img, .aboutMeEduSecton img, .SkillsSction img{
+        width: 80vw;
+    }
+    .AboutMeData, .aboutMeEduSecton{
+        width: 100vw;
+        text-align: justify;
+        padding: 15px;
+        margin-top: -80px;
+    }
+    .AboutMeData h1, .aboutMeEduSecton h1{
+        text-align: center;
+    }
+    .AboutMeData p, .AboutMeEduData{
+        width: 100%;
+        align-items: center;
+    }
+    .aboutMeEduSecton p{
+        width: 100%;
+    }
+    .skillsList{
+        margin-top: 25px;
+    }
+    .skillsList ul li{
+        font-size: 18px;
+        padding-bottom: 10px;
+    }
+    .tailwind{
+        display: flex;
+        align-items: center;
+    }
+    .tailwind img{
+        width: 25px;
+    }
+}

@@ -1,0 +1,41 @@
+.App {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  text-align: center;
+}
+.projectstitle{
+  padding: 20px;
+  background-color: #419EBB;
+  color: white;
+  font-family: 'Antonio', sans-serif; cursor: pointer;
+}
+.projectstitle h1{
+  margin-bottom: 20px;
+}
+.projectstitle p{
+  font-weight: 200;
+}
+.ifStatus{
+  margin-top: 50px;
+  margin-bottom: 50px;
+  color: red;
+  font-weight: 800;
+}
+@media (max-width:768px) {
+  .App h1{
+    font-size: 25px;
+    margin-top: 25px;
+    margin-bottom: 0%;
+    padding-bottom: 0%;
+  }
+  .projectstitle h1{
+    margin-bottom: 20px;
+  }
+  .projectstitle p{
+    text-align: justify;
+  }
+}
